@@ -1,7 +1,7 @@
 Here's a simple `README.md` file template for your **Personal Finance Tracker** project using React JS. You can customize it further based on your project details:
 
 ```markdown
-# Personal Finance Tracker
+# **Personal Finance Tracker**
 
 A Personal Finance Tracker built with React JS to help users manage their income, expenses, and track their financial goals. This app allows users to input their transactions, view their balance, and analyze their spending patterns.
 
